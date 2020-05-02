@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="pic"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectServer/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectServer/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/okhttp-3.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/jfreechart.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/jcommon.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="E:/sliit/SLIIT/3rd year/UOB/CIS/sandya/14032020/ProjectClient/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
